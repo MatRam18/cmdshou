@@ -2,14 +2,14 @@
 # 
 
 @echo off
-echo "Limpando a tela e aguardando para mostrar arquivos"
+echo 
 pause
 cls
 pause
-echo "Mostrando aquivos"
+echo 
 pause
 dir
 pause
-echo "Mostrando sua estrutura de pastas"
+echo 
 pause
 tree
